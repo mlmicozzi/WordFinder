@@ -9,3 +9,4 @@ C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Domain\obj\Debug\ne
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Domain\obj\Debug\net8.0\refint\WordFinder.Domain.dll
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.pdb
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Domain\obj\Debug\net8.0\ref\WordFinder.Domain.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Domain\obj\Debug\net8.0\WordFinder.Domain.sourcelink.json

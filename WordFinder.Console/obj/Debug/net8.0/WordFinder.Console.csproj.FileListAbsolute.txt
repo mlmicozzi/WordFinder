@@ -18,3 +18,4 @@ C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Console\obj\Debug\n
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Console\obj\Debug\net8.0\WordFinder.Console.pdb
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Console\obj\Debug\net8.0\WordFinder.Console.genruntimeconfig.cache
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Console\obj\Debug\net8.0\ref\WordFinder.Console.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Console\obj\Debug\net8.0\WordFinder.Console.sourcelink.json

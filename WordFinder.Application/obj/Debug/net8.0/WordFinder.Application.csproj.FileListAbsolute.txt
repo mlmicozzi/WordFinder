@@ -13,3 +13,4 @@ C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Deb
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\refint\WordFinder.Application.dll
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.pdb
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\ref\WordFinder.Application.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.sourcelink.json

@@ -102,3 +102,4 @@ C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Tests\obj\Debug\net
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Tests\obj\Debug\net8.0\WordFinder.Tests.pdb
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Tests\obj\Debug\net8.0\WordFinder.Tests.genruntimeconfig.cache
 C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Tests\obj\Debug\net8.0\ref\WordFinder.Tests.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Tests\obj\Debug\net8.0\WordFinder.Tests.sourcelink.json
