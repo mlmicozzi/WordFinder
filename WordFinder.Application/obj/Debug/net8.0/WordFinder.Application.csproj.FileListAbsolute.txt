@@ -1,0 +1,15 @@
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\bin\Debug\net8.0\WordFinder.Application.deps.json
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\bin\Debug\net8.0\WordFinder.Application.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\bin\Debug\net8.0\WordFinder.Application.pdb
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\bin\Debug\net8.0\WordFinder.Domain.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\bin\Debug\net8.0\WordFinder.Domain.pdb
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.csproj.AssemblyReference.cache
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.AssemblyInfoInputs.cache
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.AssemblyInfo.cs
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.csproj.CoreCompileInputs.cache
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFind.C21203D7.Up2Date
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\refint\WordFinder.Application.dll
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\WordFinder.Application.pdb
+C:\Users\marum\OneDrive\Documentos\net\WordFinder\WordFinder.Application\obj\Debug\net8.0\ref\WordFinder.Application.dll
